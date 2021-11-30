@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name": "Emmanuel Sahr Sewah",
+    "occupation": "Information Systems and Software Developer",
+    "description": "I plan, design and build secure software Systems that works across all platforms. ",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Emmanuel Sahr Sewah! I've been into Software Development for over 3+ years now. As a Software Developer. I've worked as a fullstack software developer, IT Associate, and Systems Support Engineer with startups, Government Organiations and Private entities to help build & scale their Applications / companies. I possess strong understanding of various software Development priciples and best practices couple with indept practical experiences in Information Technology. I have a passion for processes, and I am an experienced team leader / player who typically manages and work with upto 10 developers/engineers at any given time",
+    "contactmessage": "Get in touch with me to benefit from my wide range of skills and experience",
+    "email": "sewah2012@gmail.com",
+    "phone": "+212 632 952 071",
+    "address": {
+      "street": "Hay Qamra, Quartier Yacoub Mansour",
+      "city": "Rabat",
+      "state": "Rabat",
+      "zip": "Rabat"
+    },
+    "website": "https://emmanuelsewah.ga/",
+    "resumedownload": "https://drive.google.com/file/d/1zNvtmn__6-_HzPWq1jxF1hjvMKqiTOzp/view?usp=sharing",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/sewah2012",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/emmanuelsahrsewah",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/emmanuel.sewah",
+        "className": "fa fa-facebook"
+      },
+      
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_emmanuelcode/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC4ZT554QawJLtZHrN_LL76A",
+        "className": "fa fa-youtube"
+      }
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Information Technology (IT) Proficiency and skills include but not limited to the following:",
+    "education": [
+      {
+        "school": "Specialised Institute of Applied Technology (ISTA-NTIC) - Rabat",
+        "degree": "Associate's Degree, Software Development",
+        "graduated": "July 2021",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Easy Technology Group",
+        "title": "Founder / Fullstack Software Developer ",
+        "years": "January 2019 - Present",
+        "description": "Manage the planning, designs and development of Software Applications and Websites for Clients. I manage projects for small and medium size business and ensure timely delivery of their  business applications and help them increase sales and productivity."
+      },
+      {
+        "company": "M & H Technology Services S.A.R.L - RABAT ",
+        "title": "Software Development Intern",
+        "years": "May 2021 - July 2021",
+        "description": "Developed an interactive application using React and Firebase that allows users to log in, make a post, comment on post, edit profile, etc. I also worked with a two men team to build a full stack desktop application using Microsoft DotNet and SQLi that allows users to manage stocks. I worked with the Liberian Students Association in Morocco (LISAM) and build their official website www.lisamlisam.org that makes it very easy for students to acess information, news events and allowances status"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Computer Programming and Coding (Java, Javascript, SQL, HTML, CSS)",
+        "level": "99%"
+      },
+      
+      {
+        "name": "Software Development (Object-Oriented Design)",
+        "level": "90%"
+      },
+      {
+        "name": "Software Testing & Debugging",
+        "level": "85%"
+      },
+      {
+        "name": "Practical Knowledge of Key DevOps Tools (Git, Docker, Kubernetes)",
+        "level": "85%"
+      },
+
+      {
+        "name": "Problem Solving and Logical Thinking",
+        "level": "100%"
+      },
+      {
+        "name": "Written and Verbal Communication (English & French)",
+        "level": "100%"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "level": "100%"
+      }    
+     
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AirBnB Clone (Next.js, Tailwind Css)",
+        "category": "FrontEnd (UI / UX)",
+        "image": "airbnb.jpg",
+        "url": "https://airbnb-clone-rouge-ten.vercel.app/"
+      },
+      {
+        "title": "Liberian Students Assocation in Morocco Website (React JS & Firebase)",
+        "category": "Serverless Full Stack",
+        "image": "lisam.jpg",
+        "url": "https://lisamlisam.org/"
+      },
+      {
+        "title": "Streamer Social Network (React JS & Firebase)",
+        "category": "Serverless FullStack",
+        "image": "streamer.jpg",
+        "url": "https://socialnetwork-e19b9.web.app/"
+      },
+      {
+        "title": "Employee Management System (React.js, Java SpringBoot & Postgres SQL)",
+        "category": "FullStack (Java Spring Boot & React)",
+        "image": "employee.jpg",
+        "url": "https://github.com/sewah2012/Employees-Management-System"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Emmanuel is a very intelligent young man. He delivers quality and professionalism to every task assigned him. I definedly recommend him and trust in his abilities.",
+        "user": "Alphonso Zean Soe, CEO- Liberia Public Radio"
+      },
+      {
+        "text": "Working with Emmanuel to build our Association (Liberian Students Association in Morocco) Official Website was the best experience of my life. He made everything easy. He understands how to convert ideas and thoughts into reality. Emmanuel pays attention to details and I definitely recommend him.",
+        "user": "John"
+      }
+    ]
+  }
+}
